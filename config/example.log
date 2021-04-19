@@ -1,0 +1,8 @@
+DEBUG:Email to andrey@kryukov.com sent.
+DEBUG:Email to andrey@kryukov.com sent.
+DEBUG:{'Twitter': {'username': 'johndoe', 'password': 'johndoespassword', 'token': 'tokentoken'}, 'Email': {'username': 'andrey@kryukov.com'}, 'Log': {'monitoring_log_file': 'example.log'}, 'jobs': [{'build': 'production'}]}
+DEBUG:Email to andrey@kryukov.com sent.
+DEBUG:{'Twitter': {'username': 'johndoe', 'password': 'johndoespassword', 'token': 'tokentoken'}, 'Email': {'username': 'andrey@kryukov.com'}, 'Log': {'monitoring_log_file': 'example.log'}, 'jobs': [{'build': 'production'}]}
+DEBUG:Email to andrey@kryukov.com sent.
+DEBUG:{'Twitter': {'username': 'johndoe', 'password': 'johndoespassword', 'token': 'tokentoken'}, 'Email': {'username': 'andrey@kryukov.com'}, 'Log': {'monitoring_log_file': 'example.log'}, 'brand': {'b152': 'pxv'}}
+DEBUG:Email to andrey@kryukov.com sent.
